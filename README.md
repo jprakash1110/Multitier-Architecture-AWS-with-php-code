@@ -26,3 +26,10 @@ The company wants high availability on this product, therefore wants Auto scalin
 6. Allow traffic from EC2 to RDS instance
 7. Allow all-traffic to EC2 instance
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Package requirement**
+1. mariadb105-3:10.5.25-1.amzn2023.0.1.x86_64   // for mysql
+2. php8.2-cli-8.2.15-1.amzn2023.0.1.x86_64
+3. php php-mysqlnd
+
